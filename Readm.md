@@ -1,5 +1,5 @@
 1. Set up Environment
-pip install fastapi uvicorn playwright requests pyperclip
+pip install -r requirements.txt
 playwright install
-2. Run Server
+1. Run Server
 python server.py
